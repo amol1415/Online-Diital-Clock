@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+html,body{
+    display: grid;
+    place-items: center;
+    background-color: lightblue;
+
+}
+
+.wrapper{
+    width: 420px;
+    height: 120px;
+    background-color:pink;
+}
+
+
+.clock{
+    text-align: center;
+    margin-top: 23px;
+    background-color: blueviolet;
+   
+}
+#time{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
